@@ -4,8 +4,8 @@ Each problem is in a folder based on the algorithm or data structure I used the 
 The original problem will be linked in the file and the file name will be numbered.
 
 ## Binary Search folder:
-  - Binary-Search
+  - 704.Binary-Search
 
 
-## Depth First Search:
-  - Subset
+## Depth First Search folder:
+  - 78.Subset

@@ -9,3 +9,8 @@ The original problem will be linked in the file and the file name will be number
 
 ## Depth First Search folder:
   - 78.Subset
+
+## Linked List folder:
+  - 206.Reverse Linked List
+
+## 

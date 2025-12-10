@@ -1,5 +1,5 @@
 """
-Link:
+Link: https://leetcode.com/problems/implement-stack-using-queues/description/
 
 use 2 quenes(dont really need the second one)
 

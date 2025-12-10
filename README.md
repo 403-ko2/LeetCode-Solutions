@@ -18,3 +18,10 @@ The original problem will be linked in the file and the file name will be number
 
 ## Matrix folder:
   - 48.Rotate Image
+
+## Stacks n Quenes:
+  - 155.Min Stack
+  - 225.Implement Stack using Queues
+
+## Subsets:
+  - 2831.Find the Longest Equal Subarray

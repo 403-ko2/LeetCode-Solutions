@@ -1,6 +1,6 @@
 """
 Link: https://leetcode.com/problems/binary-tree-level-order-traversal/
-"""
+
 quene 
 output array
 while loop 
@@ -28,45 +28,14 @@ create a result arr to house our final output
 """
 
 # Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-
-from collections import deque
-class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if not root:
-            return []
-        res = []
-        queue = deque([root])
-
-        while queue:
-            q_size = len(queue)
-            curr_lvl = []
-            for _ in range(q_size):
-                node = queue.popleft()
-                curr_lvl.append(node.val)
-
-                if node.left != None:
-                    queue.append(node.left)
-                if node.right != None:
-                    queue.append(node.right)
-            
-            res.append(curr_lvl)
-            
-        return res
-
-"""
-
-from collections import deque
-# Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+from collections import deque
+
 class Solution(object):
     def levelOrder(self, root):
         if not root:
@@ -88,8 +57,6 @@ class Solution(object):
             res.append(currLev)
 
         return res
-
-        """
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """

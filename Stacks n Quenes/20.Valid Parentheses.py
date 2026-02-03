@@ -1,4 +1,6 @@
 """
+utilizing a map and stack (another way would be to have several if statements to check for each bracket seperately, this way makes it simpler, but they both have similar time in complexity.)
+
 1. create a map of the closing brackets
 2. create an empty stack
 3. iterate through the string

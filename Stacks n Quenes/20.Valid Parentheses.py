@@ -10,6 +10,9 @@ utilizing a map and stack (another way would be to have several if statements to
     3b. else append the current iteration to our stack
 4. return the boolean - is the stack empty or not (not stack)
 
+O(n) time complexity (due to the for loop)
+O(n) space (the map is consistant but the string itself and stack will grow as the input increases hence O(n)) 
+
 """
 
 class Solution:

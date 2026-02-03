@@ -1,4 +1,14 @@
+"""
+1. create a map of the closing brackets
+2. create an empty stack
+3. iterate through the string
+    3a. if the current iteration is in the map:
+        3a.b. if the stack is not empty and the last element in the stack is equal to the map[key]: pop off the stack
+        3a.c. else return False
+    3b. else append the current iteration to our stack
+4. return the boolean - is the stack empty or not (not stack)
 
+"""
 
 class Solution:
     def isValid(self, s: str) -> bool:

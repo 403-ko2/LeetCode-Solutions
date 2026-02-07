@@ -3,7 +3,6 @@ three solutions here.
 first one is a brute force solution utilizing an unordered hashmap (faster than an ordered) to keep track of element count
 second one sorts the array since the majority should be greater than n / 2 so if you return the nums[nums.size() / 2] you would get the element that is going over the half
 last one is the boyer-moore algorithm that increments the count of the result and decrements if the next iteration is not equal to the result. it will reassign result if count is going to be negative.
-
 */
 
 class Solution {

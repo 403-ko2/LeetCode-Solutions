@@ -35,3 +35,21 @@ class Solution:
                 stack.append(i)
 
         return not stack
+
+#alternative solution 
+"""
+        stack = []
+
+        for i in range(len(s)):
+            if stack and self.pairFound(stack[-1], s[i]):
+                stack.pop()
+            else:
+                stack.append(s[i])
+        
+        return not stack
+    
+    def pairFound(self, last, cur):
+        return (last == "(" and cur == ")") \
+                or (last == "{" and cur == "}") \
+                or (last == "[" and cur == "]")
+"""

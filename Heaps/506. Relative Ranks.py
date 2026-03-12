@@ -1,6 +1,8 @@
 """
 Two solutions that follow the same intuition, first on is a solution using the sort method in python
 The second solution is using heaps! A max heap storing tuples, same as the sort solution.
+
+both have the same time complexity O(nlogn) and space complexity O(n) since both solutions are making a new array/list and use sorting n amount of times
 """
 
 import heapq

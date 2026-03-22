@@ -28,3 +28,6 @@ The original problem will be linked in the file and the file name will be number
 
 ## Subsets:
   - 2831.Find the Longest Equal Subarray
+
+## Graphs:
+  - 1791. Find Center of Star Graph

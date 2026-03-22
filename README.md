@@ -22,6 +22,10 @@ The original problem will be linked in the file and the file name will be number
 ## Matrix folder:
   - 48.Rotate Image
 
+## Heaps:
+  - 1046.Last Stone Weight.py
+  - 506.Relative Ranks.py
+
 ## Stacks n Quenes:
   - 155.Min Stack
   - 225.Implement Stack using Queues

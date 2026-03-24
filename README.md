@@ -22,16 +22,19 @@ The original problem will be linked in the file and the file name will be number
 ## Matrix folder:
   - 48.Rotate Image
 
-## Heaps:
+## Heaps folder:
   - 1046.Last Stone Weight.py
   - 506.Relative Ranks.py
 
-## Stacks n Quenes:
+## Stacks n Quenes folder:
   - 155.Min Stack
   - 225.Implement Stack using Queues
 
-## Subsets:
+## Subsets folder:
   - 2831.Find the Longest Equal Subarray
 
-## Graphs:
+## Graphs folder:
   - 1791.Find Center of Star Graph
+
+## Strings folder:
+- Longest Common Prefix

@@ -37,4 +37,5 @@ The original problem will be linked in the file and the file name will be number
   - 1791.Find Center of Star Graph
 
 ## Strings folder:
-- Longest Common Prefix
+  - 344.Reverse String
+  - Longest Common Prefix

@@ -25,6 +25,7 @@ The original problem will be linked in the file and the file name will be number
 ## Heaps folder:
   - 1046.Last Stone Weight.py
   - 506.Relative Ranks.py
+  - 703. Kth Largest Element in a Stream.py
 
 ## Stacks n Quenes folder:
   - 155.Min Stack

@@ -9,9 +9,11 @@ The original problem will be linked in the file and the file name will be number
 
 ## Depth First Search folder:
   - 78.Subset
+  - Similar Leaf Trees
 
 ## Breadth First Search folder:
   - 102.Binary Tree Level Order Traversal
+  - Find If Path Exists
 
 ## Linked List folder:
   - 21.Merge Two Sorted Linked Lists
@@ -40,4 +42,4 @@ The original problem will be linked in the file and the file name will be number
 ## Strings folder:
   - 344.Reverse String
   - Longest Common Prefix
-  - Encode and decode strings
+  - Encode and Decode Strings

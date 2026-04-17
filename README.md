@@ -40,3 +40,4 @@ The original problem will be linked in the file and the file name will be number
 ## Strings folder:
   - 344.Reverse String
   - Longest Common Prefix
+  - Encode and decode strings
